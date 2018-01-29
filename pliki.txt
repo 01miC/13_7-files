@@ -1,0 +1,12 @@
+ 
+node_modules 
+package-lock.json 
+.git 
+index.js 
+package.json 
+node_modules 
+package-lock.json 
+pliki.txt 
+index.js 
+package.json 
+.git
